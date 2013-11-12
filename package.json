@@ -2,7 +2,7 @@
   "author": "Derek Reynolds <drk@diy.org> (http://drk.es)",
   "name": "hypergluten",
   "description": "HTML data binding",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/derekr/hypergluten",
   "repository": {
     "type": "git",
